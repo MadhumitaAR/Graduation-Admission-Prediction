@@ -1,4 +1,4 @@
-**Project Title** : Graduate Admission Prediction Using Logistic Regression
+**Project Title** : Graduate Admission Prediction Using Logistic Regression  
 
 **Dataset Link** : "https://www.kaggle.com/datasets/gurbanovafatima/admission-prediction"
 
